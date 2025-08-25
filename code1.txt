@@ -1,0 +1,14 @@
+package com.mycompany.codes;
+import java.util.*;
+
+
+public class Codes {
+
+    public static void main(String[] args) {
+        Scanner Sc= new Scanner(System.in);
+        System.out.print("enter something");
+        String input = Sc.nextLine();
+        System.out.println("you entered" + input);
+       
+    }
+} 
