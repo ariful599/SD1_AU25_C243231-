@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Sum{
+public class Nine{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a number N to find the sum from 1 to N: ");
@@ -14,4 +14,5 @@ public class Sum{
 
         scanner.close();
     }
+
 }
