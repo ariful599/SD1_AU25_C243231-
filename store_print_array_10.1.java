@@ -1,6 +1,6 @@
 
 import java.util.*;
-class {
+public class store_print_array_10.1 {
     public static void store_print_array(String[] args) {
         System.out.println("enter the array element");
         Scanner sc= new Scanner(System.in);
@@ -14,3 +14,4 @@ class {
         }
     }
 }
+
